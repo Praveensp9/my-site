@@ -3,7 +3,7 @@
     "name":"Praveen Patil",
     "occupation":"Software Developer",
     "description":"This is my website",
-    "image":"Praveen.jpg",
+    "image":"./Praveen.jpg",
     "bio":"I am a Master's Student in Computer Science with a concentration in Data Science at University of Southern California. I worked as a Software Developer at Cisco Systems,Inc. for 2.5 years gaining vast professional experience. I completed my undergraduate studies majoring in computer science from M S Ramaiah Institute of Technology,Bangalore.I worked as a data analytics intern at Cisco and Research intern at IBM. I work on technologies like JAVA,PYTHON,React,ML,C and likewise. I aspire to become a full stack developer with a concentration on Machine Learning and Artificial Intelligence.I am looking forward to seeking a platform for the same.",
     "contactmessage":"Please feel free to reach out to me by shooting email below",
     "email": "prvnsp9@gmail.com",
@@ -117,31 +117,31 @@
       {
         "title":"Musically Connected",
         "category":"A platform where musicians can collaborate and form a community instantly",
-        "image":"lahacks.jpg",
+        "image":"./lahacks.jpg",
         "url":"https://devpost.com/software/musically-connected"
       },
       {
         "title":"TACIT",
         "category":"(offline now) A fighting gear company I started",
-        "image":"tacit.jpg",
+        "image":"./tacit.jpg",
         "url":"http://tacit.usc.edu"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"Resume.jpg",
+        "image":"./Resume.jpg",
         "url":"https://praveensp9.github.io/"
       },
       {
         "title":"WebApp for college lab exams",
         "category":"A Javascript and PHP based web application",
-        "image":"WebApp.jpg",
+        "image":"./WebApp.jpg",
         "url":"https://github.com/Praveensp9/WebApp-for-college-lab-exams"
       },
       {
         "title":"Twitter data sentimental analysis",
         "category":"A tool that performs sentimental analysis on people tweets using twitter api's",
-        "image":"original-thai-food.jpg",
+        "image":"./original-thai-food.jpg",
         "url":"https://github.com/Praveensp9/Twitter-sentimental-analysis"
       }
 

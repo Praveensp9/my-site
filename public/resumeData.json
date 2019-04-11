@@ -3,7 +3,7 @@
     "name":"Praveen Patil",
     "occupation":"Software Developer",
     "description":"This is my website",
-    "image":"Praveen.jpg",
+    "image":"Praveen1.jpg",
     "bio":"I am a Master's Student in Computer Science with a concentration in Data Science at University of Southern California. I worked as a Software Developer at Cisco Systems,Inc. for 2.5 years gaining vast professional experience. I completed my undergraduate studies majoring in computer science from M S Ramaiah Institute of Technology,Bangalore.I worked as a data analytics intern at Cisco and Research intern at IBM. I work on technologies like JAVA,PYTHON,React,ML,C and likewise. I aspire to become a full stack developer with a concentration on Machine Learning and Artificial Intelligence.I am looking forward to seeking a platform for the same.",
     "contactmessage":"Please feel free to reach out to me by shooting email below",
     "email": "prvnsp9@gmail.com",
@@ -44,13 +44,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am passionate about computer science since my college days. I love code in Java and C++. Here are some of technologies i aquire.",
     "education":[
       {
         "school":"University of Southern California",
         "degree":"Masters in Computer Science (Data Science)",
         "graduated":"December 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I started my Masters in January 2019. "
       },
       {
         "school":"M S Ramaiah Institute of Technology",
@@ -87,6 +87,18 @@
     ],
     "skills":[
       {
+        "name":"Machine Learning",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
         "name":"Git",
         "level":"90%"
       },
@@ -96,15 +108,15 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"80%"
+        "name":"Java",
+        "level":"90%"
       },
       {
         "name":"MongoDB",

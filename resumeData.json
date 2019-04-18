@@ -61,16 +61,22 @@
     ],
     "work":[
       {
+        "company":"Computational Social Science Laboratory - USC",
+        "title":"Research Assistant",
+        "years":"January 2019 - Present",
+        "description":"As a Research Assistant at CSSL working under Prof. Morteza Dehghani, I work on the problem of Neural Text Analysis Pipeline (NTAP). We Implement NLP tools that does crawling, clustering, classify using Naïve Bayes and SVM. I also have involved myself in the developement of Eclipse based Java crawler called TACIT. Deployed it on MacOS, Windows and Linux operating systems using Jenkins and Tycho plugin. This uses MongoDb as backend database."
+      },
+      {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer II ",
         "years":"April 2018 - December 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I was working on Project ISE in Cisco. I helped in designed and developing IPV6 support Cisco ISE 2.5 release using C and python. Also,i was an integral part of Cisco ISE Pxgrid and MDM Services development team.I received many accolades including multiple connected recognition from manager and team for excellent quality deliverables."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer I",
         "years":"August 2016 - March 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I started my carrier as Software Developer at Cisco.I was working as developer for Licensing team in ISE 2.2. Also, I Developed front end for ISE Readiness Assessment project using Node.js and Bootstrap. Contributed effectively in development of Licensing feature for ISE Denali (2.2) Release. Proposed and designed use of Elasticsearch and Kibana for storage and data analysis of ISE Readiness customer."
       },
       {
         "company":"Cisco Systems,Inc.",

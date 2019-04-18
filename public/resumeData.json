@@ -50,39 +50,45 @@
         "school":"University of Southern California",
         "degree":"Masters in Computer Science (Data Science)",
         "graduated":"December 2020",
-        "description":"I started my Masters in January 2019. "
+        "description":"I am currently pursuing Master's in Data Science, expected to graduate in Fall 2020 from USC. I have completed courses on Analysis of algorithms (CSCI-570), Database Systems (CSCI-585),Machine Learning (CSCI-567) as a part of the curriculum. I will be taking Operating Systems (CSCI- 542),Web Technologies (CSCI - 572) and Artificial Intelligence (CSCI-561) in the upcoming semester. I love to code and  very active on HackerRank and leetcode. I have participated in many Hackthons like HackTech, LAHacks, HackSC(Winner).I am currently working as a Research Assistant under Professor, Morteza Dehghani on an NLP Project."
       },
       {
         "school":"M S Ramaiah Institute of Technology",
         "degree":"Computer Science",
         "graduated":"June 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I am B.E graduate in Computer Science from M S Ramaiah Institute of Technology, Bangalore. I graduated in Fall 2016."
       }
     ],
     "work":[
       {
+        "company":"Computational Social Science Laboratory - USC",
+        "title":"Research Assistant",
+        "years":"January 2019 - Present",
+        "description":"As a Research Assistant at CSSL working under Prof. Morteza Dehghani, I work on the problem of Neural Text Analysis Pipeline (NTAP). We Implement NLP tools that does crawling, clustering, classify using Naïve Bayes and SVM. I also have involved myself in the developement of Eclipse based Java crawler called TACIT. Deployed it on MacOS, Windows and Linux operating systems using Jenkins and Tycho plugin. This uses MongoDb as backend database."
+      },
+      {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer II ",
         "years":"April 2018 - December 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I was working on Project ISE in Cisco. I helped in designed and developing IPV6 support Cisco ISE 2.5 release using C and python. Also,i was an integral part of Cisco ISE Pxgrid and MDM Services development team.I received many accolades including multiple connected recognition from manager and team for excellent quality deliverables."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer I",
         "years":"August 2016 - March 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I started my carrier as Software Developer at Cisco.I was working as developer for Licensing team in ISE 2.2. Also, I Developed front end for ISE Readiness Assessment project using Node.js and Bootstrap. Contributed effectively in development of Licensing feature for ISE Denali (2.2) Release. Proposed and designed use of Elasticsearch and Kibana for storage and data analysis of ISE Readiness customer."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Data Analytics Intern",
         "years":"January 2016 - June 2016",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"As a software engineer intern at Cisco Systems, i started working on a data analytics project called 'Diff Set Based Automation'. The project was successful and won the 'Continuos Integration Innovation Challenge Award' organised by Cisco during May 2016. The project was developed using Linux platform and the storage mechanism used for the project is 'MongoDb'. The key technologies used for the project are Python, Java and data analytics algorithms. "
       },
       {
         "company":"IBM,India.",
         "title":"Cloud Research Intern",
         "years":"May 2015 - August 2015",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"During my tenure as a cloud research intern at IBM, i worked on various IBM cloud technologies like IBM Watson, Bluemix. Also, designed a cloud application which analyses patient records of hospital using IBM Watson, Bluemix platform and python as the programming language."
       }
     ],
     "skills":[
@@ -131,6 +137,12 @@
         "category":"A platform where musicians can collaborate and form a community instantly",
         "image":"lahacks.jpg",
         "url":"https://devpost.com/software/musically-connected"
+      },
+      {
+        "title":"Travel Companion",
+        "category":"A Blockstack project using BlockChain",
+        "image":"blockstack.jpg",
+        "url":"https://devpost.com/software/travel-companion-ilh31d"
       },
       {
         "title":"TACIT",

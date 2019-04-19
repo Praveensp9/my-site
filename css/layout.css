@@ -268,8 +268,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background-image: linear-gradient(to top, LightCyan , white);
-   padding-top: 96px;
-   padding-bottom: 190px;
+   padding-top: 86px;
+   padding-bottom: 60px;
    overflow: hidden;
 }
 
@@ -321,8 +321,8 @@ ul#nav li.current a { color: #F06000; }
 
 #experience {
    background: lavender;
-   padding-top: 96px;
-   padding-bottom: 190px;
+   padding-top: 86px;
+   /* padding-bottom: 190px; */
    overflow: hidden;
 }
 
@@ -502,8 +502,8 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background-image: linear-gradient(to top, LightCyan , white);
-   padding-top: 96px;
-   padding-bottom: 190px;
+   padding-top: 76px;
+   padding-bottom: 145px;
    overflow: hidden;
 }
 #portfolio h1 {
@@ -884,7 +884,7 @@ call-to-action .button {
    padding-bottom: 102px;
    color: #636363;
 }
-#contact .section-head { margin-bottom: 42px; }
+#contact .section-head { margin-bottom: 20px; }
 
 #contact a, #contact a:visited  { color: #11ABB0; }
 #contact a:hover, #contact a:focus { color: #fff; }
@@ -941,7 +941,7 @@ call-to-action .button {
 	outline: none;
    font-size: 15px;
    line-height: 24px;
-   width: 65%;
+   width: 70%;
 }
 #contact input:focus,
 #contact textarea:focus,
@@ -959,7 +959,7 @@ call-to-action .button {
    height: auto;
    display: inline-block;
 	border-radius: 3px;
-   margin-left: 26%;
+   margin-left: 72%;
 }
 #contact button.submit:hover {
 	color: #0D0D0D;

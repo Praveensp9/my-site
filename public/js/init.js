@@ -138,7 +138,7 @@
 ------------------------------------------------------*/
 
    $('form#contactForm button.submit').click(function() {
-
+      console.log("inside jquery");
       $('#image-loader').fadeIn();
 
       var contactName = $('#contactForm #contactName').val();
@@ -152,12 +152,13 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "../public/sendEmail.php",
+	      url: '../sendEmail.php',
 	      data: data,
 	      success: function(msg) {
 
             // Message was sent
             if (msg == 'OK') {
+              console.log("inside if ")
                $('#image-loader').fadeOut();
                $('#message-warning').hide();
                $('#contactForm').fadeOut();
@@ -165,6 +166,7 @@
             }
             // There was an error
             else {
+              console.log("inside else ")
                $('#image-loader').fadeOut();
                $('#message-warning').html(msg);
 	            $('#message-warning').fadeIn();

@@ -5,10 +5,10 @@ body {
 #console {
 	font-family: courier, monospace;
 	color: #fff;
-	width:750px;
+	width:850px;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:100px;
+	margin-top:80px;
 	font-size:14px;
 }
 a {
@@ -23,4 +23,21 @@ a {
 }
 #b {
 	color: #ff0096;
+}
+#z {
+	color: #0f0;
+	font-size: 24px;
+	animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+#y {
+	font-size: 24px;
+}
+#x {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 15px;
 }

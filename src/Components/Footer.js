@@ -5,7 +5,7 @@ class Footer extends Component {
 
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url} target="_blank"><i className={network.className}></i></a></li>
       })
     }
 
@@ -14,9 +14,9 @@ class Footer extends Component {
 
      <div className="row">
         <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
+            <ul className="social-links">
+               {networks}
+            </ul>
 
            <ul className="copyright">
               <li>&copy; Copyright 2019 Praveen Patil</li>

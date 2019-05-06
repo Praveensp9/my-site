@@ -267,7 +267,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background-image: linear-gradient(to top, LightCyan , white);
+   /* background-image: linear-gradient(to bottom, LightCyan , white); */
+   background-image: linear-gradient(to right top, #4b4453, #625462, #796570, #8f787e, #a48b8c, #ad9495, #b69c9d, #bfa5a6, #bea5ab, #baa6b1, #b6a7b5, #b0a8b9);
    padding-top: 86px;
    padding-bottom: 60px;
    overflow: hidden;
@@ -298,7 +299,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: midnightblue;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -314,6 +315,11 @@ ul#nav li.current a { color: #F06000; }
 #resume .edu {
   font-size: 110%;
   font-family: "Times New Roman", Times, serif;
+      color: black;
+}
+
+#skills{
+  color: black;
 }
 
 
@@ -501,7 +507,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background-image: linear-gradient(to top, LightCyan , white);
+   background: #ebeeee;
    padding-top: 76px;
    padding-bottom: 145px;
    overflow: hidden;
@@ -516,7 +522,15 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+
+#portfolio-wrapper{
+  position: relative;
+  left: 100px;
+  top: 10px;
+}
+
+#portfolio-wrapper .columns { margin-bottom: 36px;
+ }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -879,7 +893,8 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   /* background: #191919; */
+   background-image: linear-gradient(to right top, #4b4453, #736a7b, #9e93a5, #ccbdd1, #fbeaff);
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -916,6 +931,7 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: #EBEEEE;
 }
 #contact .header-col { padding-top: 6px; }
 

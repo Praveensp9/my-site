@@ -44,19 +44,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am passionate about computer science since my college days. I love code in Java and C++. Here are some of technologies i aquire.",
+    "skillmessage":"Avid ML/AI enthusiast and a passionate coder. I am good at coding in Java, C++, Python, Javascript. I have knowledge on working with TensorFlow, MongoDB, Elasticsearch, SQL, Cassandra databases. I hosted some applications on AWS and GCP during Hackthons.",
     "education":[
       {
         "school":"University of Southern California",
         "degree":"Masters in Computer Science (Data Science)",
         "graduated":"December 2020",
-        "description":"I am currently pursuing Master's in Data Science, expected to graduate in Fall 2020 from USC. I have completed courses on Analysis of algorithms (CSCI-570), Database Systems (CSCI-585),Machine Learning (CSCI-567) as a part of the curriculum. I will be taking Operating Systems (CSCI- 542),Web Technologies (CSCI - 572) and Artificial Intelligence (CSCI-561) in the upcoming semester. I love to code and  very active on HackerRank and leetcode. I have participated in many Hackthons like HackTech, LAHacks, HackSC(Winner).I am currently working as a Research Assistant under Professor, Morteza Dehghani on an NLP Project."
+        "description":"I am currently pursuing Master's in Data Science, expected to graduate in Fall 2020. I have completed courses on Analysis of algorithms (CSCI-570), Database Systems (CSCI-585),Machine Learning (CSCI-567) as a part of the curriculum. I will be taking Operating Systems (CSCI- 542),Web Technologies (CSCI - 572) and Artificial Intelligence (CSCI-561) in the upcoming semester. I love to code and  very active on HackerRank and leetcode. I have participated in many Hackthons like HackTech, LAHacks, HackSC(Winner). I am currently working as a Machine Learning research assistant in CiSoft Lab at Information Science Institute, USC. Also, I am a Research Assistant under Professor, Morteza Dehghani working on a NLP Project Neural Text Analysis Pipeline."
       },
       {
         "school":"M S Ramaiah Institute of Technology",
         "degree":"Computer Science",
         "graduated":"June 2016",
-        "description":"I am B.E graduate in Computer Science from M S Ramaiah Institute of Technology, Bangalore. I graduated in Fall 2016."
+        "description":"I am a B.E graduate from M S Ramaiah Institute of Technology, Bangalore majoring in Computer Science. Graduated in Fall 2016. As part of the curriculum, I have taken courses focused on Compiler Design, Python, Data Structures, algorithms, Java and many more. I also participated in many Hackthons along with studies. I was winner of HP Thinkthon and IBM Hackthon. An active participant on coding platforms like codechef, HackerEarth, HackerRank. I interned at Cisco, Bangalore during my final semester."
       }
     ],
     "work":[
@@ -70,7 +70,7 @@
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer II ",
         "years":"April 2018 - December 2018",
-        "description":"I was working on Project ISE in Cisco. I helped in designed and developing IPV6 support Cisco ISE 2.5 release using C and python. Also,i was an integral part of Cisco ISE Pxgrid and MDM Services development team.I received many accolades including multiple connected recognition from manager and team for excellent quality deliverables."
+        "description":"I worked on product ISE at Cisco. I focused in designing and developing IPV6 SNMP support Cisco ISE 2.5 release using C and python. Also,i was an integral part of Cisco ISE Pxgrid and MDM Services development team. I received many accolades including multiple connected recognition from manager and team for excellent quality deliverables."
       },
       {
         "company":"Cisco Systems,Inc.",

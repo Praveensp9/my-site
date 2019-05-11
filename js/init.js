@@ -150,9 +150,8 @@
                '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
 
       $.ajax({
-
 	      type: "POST",
-	      url: '../sendEmail.php',
+	      url: 'https://praveensp9.github.io/praveen_mail.php',
 	      data: data,
 	      success: function(msg) {
 

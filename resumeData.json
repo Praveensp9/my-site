@@ -145,24 +145,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Musically Connected",
-        "category":"A platform where musicians can collaborate and form a community instantly",
-        "image":"lahacks.jpg",
-        "url":"https://devpost.com/software/musically-connected"
-      },
-      {
-        "title":"Travel Companion",
-        "category":"A Blockstack project using BlockChain",
-        "image":"blockstack.jpg",
-        "url":"https://devpost.com/software/travel-companion-ilh31d"
-      },
-      {
-        "title":"TACIT",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"tacit.jpg",
-        "url":"http://tacit.usc.edu"
-      },
-      {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"Resume.jpg",
@@ -179,8 +161,25 @@
         "category":"A tool that performs sentimental analysis on people tweets using twitter api's",
         "image":"Twitter_Analysis.jpg",
         "url":"https://github.com/Praveensp9/Twitter-sentimental-analysis"
+      },
+      {
+        "title":"Musically Connected",
+        "category":"A platform where musicians can collaborate and form a community instantly",
+        "image":"lahacks.jpg",
+        "url":"https://devpost.com/software/musically-connected"
+      },
+      {
+        "title":"Travel Companion",
+        "category":"A Blockstack project using BlockChain",
+        "image":"blockstack.jpg",
+        "url":"https://devpost.com/software/travel-companion-ilh31d"
+      },
+      {
+        "title":"TACIT",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"tacit.jpg",
+        "url":"http://tacit.usc.edu"
       }
-
     ]
   }
 }

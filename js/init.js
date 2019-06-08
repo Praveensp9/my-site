@@ -154,7 +154,8 @@
 	      url: 'https://praveensp9.github.io/praveen_mail.php',
 	      data: data,
 	      success: function(msg) {
-
+            console.log("Inside success");
+            console.log(msg.responseText);
             // Message was sent
             if (msg == 'OK') {
               console.log("inside if ")
@@ -171,7 +172,11 @@
 	            $('#message-warning').fadeIn();
             }
 
-	      }
+	      },
+        error: function(msg){
+          console.log("Inside error");
+          console.log(msg.responseText);
+        }
 
       });
       return false;

@@ -268,7 +268,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    /* background-image: linear-gradient(to bottom, LightCyan , white); */
-   background-image: linear-gradient(to right top, #4b4453, #625462, #796570, #8f787e, #a48b8c, #ad9495, #b69c9d, #bfa5a6, #bea5ab, #baa6b1, #b6a7b5, #b0a8b9);
+   /* background-image: linear-gradient(to right top, #4b4453, #625462, #796570, #8f787e, #a48b8c, #ad9495, #b69c9d, #bfa5a6, #bea5ab, #baa6b1, #b6a7b5, #b0a8b9); */
+   background-image: linear-gradient(to right bottom, #66d7d8, #6cd7c1, #7fd5a7, #98d18e, #b3ca77, #b9c96f, #bfc866, #c6c75e, #b5ce5e, #a0d462, #86da6b, #63e078);
    padding-top: 86px;
    padding-bottom: 60px;
    overflow: hidden;
@@ -326,7 +327,9 @@ ul#nav li.current a { color: #F06000; }
 
 
 #experience {
-   background: lavender;
+   /* background: lavender; */
+   /* background-image: linear-gradient(to right bottom, #f1e8ed, #eae3ef, #dee1f1, #cedff1, #bcdeeb, #b3dee4, #aeddda, #aedbcd, #b2d9c3, #b9d7b9, #c2d4b0, #cbd0a8); */
+   background-image: linear-gradient(to left bottom, #6d7e7e, #748480, #7d8a82, #889085, #939588, #999680, #a29679, #ad9473, #b78d5f, #c2844d, #cf793e, #dc6b33);
    padding-top: 86px;
    /* padding-bottom: 190px; */
    overflow: hidden;
@@ -353,7 +356,7 @@ ul#nav li.current a { color: #F06000; }
 
 #experience .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: midnightblue;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -369,6 +372,7 @@ ul#nav li.current a { color: #F06000; }
 #experience .edu {
   font-size: 110%;
   font-family: "Times New Roman", Times, serif;
+      color: black;
 }
 
 /*----------------------------------------------*/
@@ -507,7 +511,8 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   /* background: #ebeeee; */
+   background-image: linear-gradient(to bottom, #8fe0d3, #6ad1d5, #46c2d8, #26b1da, #239ed9);
    padding-top: 76px;
    padding-bottom: 145px;
    overflow: hidden;

@@ -61,33 +61,45 @@
     ],
     "work":[
       {
-        "company":"Computational Social Science Laboratory - USC",
+        "company":"CiSoft Lab - Information Science Institute",
+        "title":"Machine Learning Research Assistant",
+        "years":"May 2019 - Present",
+        "href":"https://cisoft.usc.edu",
+        "description":"Developing and implementing Machine Learning algorithms to solve the real time oil well failures of Chevron under Prof. Raghu Raghavendra and Prof. Ke-Thia Yao at ISI USC. Working with Java and Python for implementing machine learning algorithms. Weka is used for data mining and visualization of the oil well data from Chevron. "
+      },
+      {
+        "company":"Computational Social Science Lab - USC",
         "title":"Research Assistant",
         "years":"January 2019 - Present",
+        "href":"https://dornsife.usc.edu/labs/cssl",
         "description":"As a Research Assistant at CSSL working under Prof. Morteza Dehghani, I work on the problem of Neural Text Analysis Pipeline (NTAP). We Implement NLP tools that does crawling, clustering, classify using Naïve Bayes and SVM. I also have involved myself in the developement of Eclipse based Java crawler called TACIT. Deployed it on MacOS, Windows and Linux operating systems using Jenkins and Tycho plugin. This uses MongoDb as backend database."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer II ",
         "years":"April 2018 - December 2018",
+        "href" : "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html",
         "description":"I worked on product ISE at Cisco. I focused in designing and developing IPV6 SNMP support Cisco ISE 2.5 release using C and python. Also,i was an integral part of Cisco ISE Pxgrid and MDM Services development team. I received many accolades including multiple connected recognition from manager and team for excellent quality deliverables."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Software Developer I",
         "years":"August 2016 - March 2018",
+        "href" :"https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html",
         "description":"I started my carrier as Software Developer at Cisco.I was working as developer for Licensing team in ISE 2.2. Also, I Developed front end for ISE Readiness Assessment project using Node.js and Bootstrap. Contributed effectively in development of Licensing feature for ISE Denali (2.2) Release. Proposed and designed use of Elasticsearch and Kibana for storage and data analysis of ISE Readiness customer."
       },
       {
         "company":"Cisco Systems,Inc.",
         "title":"Data Analytics Intern",
         "years":"January 2016 - June 2016",
+        "href":"#",
         "description":"As a software engineer intern at Cisco Systems, i started working on a data analytics project called 'Diff Set Based Automation'. The project was successful and won the 'Continuos Integration Innovation Challenge Award' organised by Cisco during May 2016. The project was developed using Linux platform and the storage mechanism used for the project is 'MongoDb'. The key technologies used for the project are Python, Java and data analytics algorithms. "
       },
       {
         "company":"IBM,India.",
         "title":"Cloud Research Intern",
         "years":"May 2015 - August 2015",
+        "href":"#",
         "description":"During my tenure as a cloud research intern at IBM, i worked on various IBM cloud technologies like IBM Watson, Bluemix. Also, designed a cloud application which analyses patient records of hospital using IBM Watson, Bluemix platform and python as the programming language."
       }
     ],

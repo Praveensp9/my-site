@@ -5,9 +5,9 @@ class Work extends Component {
 
     if(this.props.data){
       var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
+        return <div key={work.company}><a  href={work.href} target="_blank"> <h3>{work.company}</h3> </a>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
+            <p className="edu">{work.description}</p>
         </div>
       })
     }

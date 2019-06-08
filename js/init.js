@@ -150,9 +150,10 @@
                '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
 
       $.ajax({
-	      type: "POST",
+	      type: "GET",
 	      url: 'https://praveensp9.github.io/praveen_mail.php',
 	      data: data,
+        crossDomain : true,
 	      success: function(msg) {
             console.log("Inside success");
             console.log(msg.responseText);

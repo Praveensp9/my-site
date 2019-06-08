@@ -168,6 +168,7 @@
             // There was an error
             else {
               console.log("inside else ")
+              console.log(msg.responseText);
                $('#image-loader').fadeOut();
                $('#message-warning').html(msg);
 	            $('#message-warning').fadeIn();

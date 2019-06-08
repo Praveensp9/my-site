@@ -234,7 +234,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: floralwhite;
 }
 #about .profile-pic {
    position: relative;
@@ -314,7 +314,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume .edu {
-  font-size: 110%;
+  font-size: 105%;
   font-family: "Times New Roman", Times, serif;
       color: black;
 }
@@ -514,7 +514,7 @@ ul#nav li.current a { color: #F06000; }
    /* background: #ebeeee; */
    background-image: linear-gradient(to bottom, #8fe0d3, #6ad1d5, #46c2d8, #26b1da, #239ed9);
    padding-top: 76px;
-   padding-bottom: 145px;
+   padding-bottom: 240px;
    overflow: hidden;
 }
 #portfolio h1 {

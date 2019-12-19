@@ -139,6 +139,8 @@
 
    $('form#contactForm button.submit').click(function() {
       console.log("inside jquery");
+       var form_data = $('#contactForm').serialize();
+       console.log(form_data);
       $('#image-loader').fadeIn();
 
       var contactName = $('#contactForm #contactName').val();
@@ -146,14 +148,11 @@
       var contactSubject = $('#contactForm #contactSubject').val();
       var contactMessage = $('#contactForm #contactMessage').val();
 
-      var data = 'contactName=' + contactName + '&contactEmail=' + contactEmail +
-               '&contactSubject=' + contactSubject + '&contactMessage=' + contactMessage;
 
       $.ajax({
-	      type: "GET",
+	      type: "POST",
 	      url: 'https://praveensp9.github.io/praveen_mail.php',
-	      data: data,
-        crossDomain : true,
+	      data: form_data,
 	      success: function(msg) {
             console.log("Inside success");
             console.log(msg.responseText);

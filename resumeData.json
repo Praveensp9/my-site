@@ -4,14 +4,14 @@
     "occupation":"Software Developer",
     "description":"This is my website",
     "image":"Praveen1.jpg",
-    "bio":"I am a Master's Student in Computer Science with a concentration in Data Science at University of Southern California. I worked as a Software Developer at Cisco Systems,Inc. for 2.5 years gaining vast professional experience. I completed my undergraduate studies majoring in computer science from M S Ramaiah Institute of Technology,Bangalore.I worked as a data analytics intern at Cisco and Research intern at IBM. I work on technologies like JAVA,PYTHON,React,ML,C and likewise. I aspire to become a full stack developer with a concentration on Machine Learning and Artificial Intelligence.I am looking forward to seeking a platform for the same.",
+    "bio":"I am a Master's Student in Computer Science with a concentration in Computer Science at University of Southern California. I worked as a Software Developer at Cisco Systems,Inc. for 2.5 years gaining vast professional experience in Software Development. I completed my undergraduate studies majoring in computer science from M S Ramaiah Institute of Technology,Bangalore. I worked as a Software Engineering intern at Cisco and Research intern at IBM. I work on technologies like Java, Python, React, ML, C and likewise. I aspire to become a full stack developer with a concentration on Software Development and Machine Learning. I am looking forward to seeking a platform for the same.",
     "contactmessage":"Please feel free to reach out to me by shooting email below",
     "email": "prvnsp9@gmail.com",
     "phone": "+1 213-421-5418",
     "address":{
-      "street":"1179 W 29th Street",
-      "city":"Los Angeles",
-      "state":"California",
+      "street":"1210. West Adams Blvd",
+      "city":"Los Angeles,",
+      "state":"California, USA",
       "zip": "90007"
     },
     "resumedownload":"https://bit.ly/2Xm9WqE",
@@ -44,19 +44,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Avid ML/AI enthusiast and a passionate coder. I am good at coding in Java, C++, Python, Javascript. I have knowledge on working with TensorFlow, MongoDB, Elasticsearch, SQL, Cassandra databases. I hosted some applications on AWS and GCP during Hackthons.",
+    "skillmessage":"Avid Software Developer, ML/AI enthusiast and a passionate coder. I am good at coding in Java,Python,Javascript. I have knowledge on working with TensorFlow, MongoDB, Elasticsearch, SQL, Cassandra databases. I have hosted applications on AWS and GCP during Hackthons, Projects and have experience on working with android development.",
     "education":[
       {
         "school":"University of Southern California",
         "degree":"Masters in Computer Science (Data Science)",
         "graduated":"December 2020",
-        "description":"I am currently pursuing Master's in Data Science, expected to graduate in Fall 2020. I have completed courses on Analysis of algorithms (CSCI-570), Database Systems (CSCI-585),Machine Learning (INF-552) as a part of the curriculum. I will be taking Applied Natural Language Processing (CSCI-544),Operating Systems (CSCI- 542),Web Technologies (CSCI - 572) and Artificial Intelligence (CSCI-561) in the upcoming semesters. I love to code and  very active on HackerRank and leetcode. I have participated in many Hackthons like HackTech, LAHacks, HackSC(Winner). I am currently working as a Machine Learning research assistant in CiSoft Lab at Information Science Institute, USC. Also, I am also a Research Assistant under Professor, Morteza Dehghani working on a NLP Project Neural Text Analysis Pipeline."
+        "description":"I am currently pursuing Master's in Computer Science at University of Southern California. I have taken courses on Data Strctures and Advanced algorithms (CSCI-570), Database Systems (CSCI-585), Machine Learning (INF-552), Web Technologies (CSCI 571), Operating Systems (CSCI 402) and Applied Natural Language Processing (CSCI 544).I am passionate about coding, data structures and algorithms. I love coding and use Leetcode and Hackerrank to code using Java. I have participated in hackthons organised by CalTech, USC(winner), UCLA. I am currently working as a Machine Learning Research Assistant at CiSoft Lab,USC. Also, I work as a Research Assistant under Professor, Morteza Dehghani working on a NLP Project called Neural Text Analysis Pipeline (NTAP)."
       },
       {
         "school":"M S Ramaiah Institute of Technology",
         "degree":"Computer Science",
         "graduated":"June 2016",
-        "description":"I am a B.E graduate from M S Ramaiah Institute of Technology, Bangalore majoring in Computer Science. Graduated in Fall 2016. As part of the curriculum, I have taken courses focused on Compiler Design, Python, Data Structures, algorithms, Java and many more. I also participated in many Hackthons along with studies. I was winner of HP Thinkthon and IBM Hackthon. An active participant on coding platforms like codechef, HackerEarth, HackerRank. I interned at Cisco, Bangalore during my final semester."
+        "description":"I am a B.E graduate from M S Ramaiah Institute of Technology, Bangalore majoring in Computer Science. Graduated in Fall 2016. As part of the curriculum, I have taken courses focused on Compiler Design, Python, Data Structures, algorithms, Java and many more. I also participated in many Hackthons along with academics. I was winner of HP Thinkthon and IBM Hackthon. An active participant on coding platforms like codechef, HackerEarth, HackerRank. I worked at Cisco, Bangalore during my final semester as a Software Engineering Intern."
       }
     ],
     "work":[
@@ -176,7 +176,7 @@
       },
       {
         "title":"TACIT",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Text Analysis,Crawling and Interpretation Tool",
         "image":"tacit.jpg",
         "url":"http://tacit.usc.edu"
       }
